@@ -1,5 +1,5 @@
 const initialState = [
-  { id: 0, name: "Adlani Mohamed", email: "email@email.com", phone: 615896686 },
+  { id: 0, name: "Adlani Mohamed", email: "adlani.com@email.com", phone: 615896686 },
   { id: 1, name: "Test Name", email: "test@test.com", phone: 615896686 },
   { id: 2, name: "Test Name", email: "test@test.com", phone: 4567891230 },
 
